@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Maisa Folgueral 👋
 
-🎓 Atualmente eu sou estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie :)
+🎓 Atualmente sou estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie :)
 
  <div>
   <a href="https://github.com/maisafolgueral">
