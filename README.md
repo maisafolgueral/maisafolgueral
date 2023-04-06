@@ -1,10 +1,10 @@
-### Olá! Eu sou a Maisa Folgueral 👋
+# Hello! I'm Maisa👋
 
-🎓 Atualmente sou estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie :)
+🎓 Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie <br/>
+👩🏻‍💻 Estagiária de Desenvolvimento na OSBR - Optimus Serviços do Brasil
 
  <div>
   <a href="https://github.com/maisafolgueral">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maisafolgueral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisafolgueral&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
