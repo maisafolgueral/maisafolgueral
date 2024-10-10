@@ -4,7 +4,7 @@
 
 <div align='center'>
 🎓 Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie. <br/>
-💻 Estagiária de Desenvolvimento na <a href="https://www.osbr.com.br/"> OSBR - Optimus Serviços do Brasil</a>.
+💻 Desenvolvedora Trainee na <a href="https://www.osbr.com.br/"> OSBR - Optimus Serviços do Brasil</a>.
 </div> <br/>
 
 <p align='center'>
